@@ -9,7 +9,7 @@
 
 - 📝 I write articles on [https://anjumohan.hashnode.dev](https://anjumohan.hashnode.dev)
 
-- 💬 Ask me about **DevOps tools-Docker,git,k8s,Terraform,Ansible,Linux and AWS**
+- 💬 Ask me about **DevOps tools-Docker,git,k8s,Terraform,Ansible,Linux and Jenkins and AWS**
 
 - 📫 How to reach me **anjutmc@gmail.com**
 
