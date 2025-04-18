@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DevOps by doing Projects.**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Anju12345hub ,https://www.linkedin.com/in/anju-t-m-72045aa9/](https://github.com/Anju12345hub ,https://www.linkedin.com/in/anju-t-m-72045aa9/)
+- 👨‍💻 All of my projects are available at [https://github.com/Anju12345hub ,https://www.linkedin.com/in/anju-t-m/](https://github.com/Anju12345hub ,https://www.linkedin.com/in/anju-t-m/)
 
 - 📝 I write articles on [https://anjumohan.hashnode.dev](https://anjumohan.hashnode.dev)
 
